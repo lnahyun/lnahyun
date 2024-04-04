@@ -1,24 +1,16 @@
-<h1 align="center">🌟 이나현의 GitHub 프로필 🌟</h1>
+<div align="center">
 
-<p align="center">
-  <img src="your-profile-image-url.jpg" alt="프로필 이미지" width="200"/>
-</p>
+# 이나현의 GitHub 프로필 🌟
 
-<p align="center">
-  <strong>영남대학교 재학중 | C++ 배우는 중 | 그림그리기 전문</strong>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lnahyun&show_icons=true&theme=radical" alt="이나현의 깃허브 통계"/>
 
----
+</div>
 
-## 📚 학력
-- **영남대학교 재학 중**
+## 🎓 학력
+- 영남대학교 컴퓨터공학과
 
 ## 💻 기술 스택
-- **언어:** C++
+- **프로그래밍 언어:** C++, C, Python
 
-## 🎨 취미 및 특기
-- **특기:** 그림 그리기
-
----
-
-<h3 align="center">✨
+## 📫 연락처
+- 이메일: nahyun040411@naver.com
