@@ -4,7 +4,7 @@
 
 
 <p align="">
-  <strong> 🔘Tech Stack</strong>
+  <strong> 🛠️Tech Stack</strong>
 </p>
 
 
