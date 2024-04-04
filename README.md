@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">🌟 이나현의 GitHub 프로필 🌟</h1>
 
-<!--
-**lnahyun/lnahyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="your-profile-image-url.jpg" alt="프로필 이미지" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>영남대학교 재학중 | C++ 배우는 중 | 그림그리기 전문</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 학력
+- **영남대학교 재학 중**
+
+## 💻 기술 스택
+- **언어:** C++
+
+## 🎨 취미 및 특기
+- **특기:** 그림 그리기
+
+---
+
+<h3 align="center">✨
