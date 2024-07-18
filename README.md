@@ -11,9 +11,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnahyun&show_icons=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![Nahyun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lnahyun&show_icons=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnahyun&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lnahyun&layout=compact)
 
 
 <p align="">
