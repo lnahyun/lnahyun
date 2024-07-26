@@ -3,13 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flnahyun&count_bg=%23DECBBB&title_bg=%23B89F8B&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<p align="">
-  <strong> 🛠️Tech Stack</strong>
-</p>
 
-
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![Nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnahyun&show_icons=true&theme=cobalt)
 
