@@ -11,8 +11,6 @@
 </a>
 
 
-![Nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnahyun&show_icons=true&theme=cobalt)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lnahyun&layout=compact)
 
 
