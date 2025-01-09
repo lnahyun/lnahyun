@@ -16,10 +16,6 @@
 </a>
 
 
-
-
-![nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnahyun&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lnahyun&layout=compact)
 
 </div>
